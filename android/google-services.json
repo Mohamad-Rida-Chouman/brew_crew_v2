@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216470620030",
+    "project_id": "new-brew-crew-13185",
+    "storage_bucket": "new-brew-crew-13185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216470620030:android:b8280de7497fd3ff79d52f",
+        "android_client_info": {
+          "package_name": "com.mori.brew_crew_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7yRpwr25FdY9Oclj23ILxOJaxb45hEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
