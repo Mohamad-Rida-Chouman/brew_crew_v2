@@ -7,7 +7,11 @@ class AuthService {
     try {
       UserCredential result = await _auth.signInAnonymously();
       User user = result.user!;
-    } catch (e) {}
+      return user;
+    } catch (e) {
+      print(e.toString());
+      return null;
+    }
   }
 
   // Sign in with email and pass
